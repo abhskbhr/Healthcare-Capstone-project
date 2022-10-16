@@ -75,6 +75,10 @@ Scatter charts between relevant variables to analyze the relationships
 Histogram or frequency charts to analyze the distribution of the data
 
 Heatmap of correlation analysis among the relevant variables
-https://public.tableau.com/app/profile/abhisek.behera3168/viz/HealthcareCapstoneProject_16658564296630/Dashboard1
 
 Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
+
+
+Dashboard in Tableau 
+
+https://public.tableau.com/app/profile/abhisek.behera3168/viz/HealthcareCapstoneProject_16658564296630/Dashboard1
